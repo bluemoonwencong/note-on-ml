@@ -12,9 +12,6 @@
 
 - 逻辑回归
 
-- [Ryan Shrott]Reviews:
-  - [Deep Learning Specialization by Andrew Ng — 21 Lessons Learned]
-  - [Computer Vision by Andrew Ng — 11 Lessons Learned]
 - 决策数
 
 - 朴素贝叶斯
