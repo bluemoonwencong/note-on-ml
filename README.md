@@ -12,10 +12,9 @@
 
 - 逻辑回归
 
-- [Ryan Shrott](https://towardsdatascience.com/@ryanshrott?source=post_header_lockup) Reviews:
-  - [Deep Learning Specialization by Andrew Ng — 21 Lessons Learned](https://towardsdatascience.com/deep-learning-specialization-by-andrew-ng-21-lessons-learned-15ffaaef627c)
-  - [Computer Vision by Andrew Ng — 11 Lessons Learned](https://towardsdatascience.com/computer-vision-by-andrew-ng-11-lessons-learned-7d05c18a6999)
-
+- [Ryan Shrott]Reviews:
+  - [Deep Learning Specialization by Andrew Ng — 21 Lessons Learned]
+  - [Computer Vision by Andrew Ng — 11 Lessons Learned]
 - 决策数
 
 - 朴素贝叶斯
