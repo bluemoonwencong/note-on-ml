@@ -18,6 +18,10 @@
 
 哈！github简直不要太棒哦(>ω･* )
 
+统一中文文案、排版的相关用法，降低团队成员之间的沟通成本，增强网站气质。
+
+http://mazhuang.org/wiki/chinese-copywriting-guidelines/
+
 ---
 ## 第一周 2018.04.30 ~ 2018.05.06
 
