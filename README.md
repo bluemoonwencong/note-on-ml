@@ -27,7 +27,7 @@
 
 ## 关于转CS的规划：
 #### 棒棒说
-- ​
+- 
 - 
 
 
@@ -56,7 +56,9 @@
 ## RoadMap：
 
 ML简介： https://machinelearningmastery.com/a-gentle-introduction-to-scikit-learn-a-python-machine-learning-library/
+
 掘金翻译： https://github.com/xitu/gold-miner
+
 一些资料： https://github.com/allmachinelearning/MachineLearning 
 
 ### 课程
@@ -85,7 +87,7 @@ http://speech.ee.ntu.edu.tw/%7Etlkagk/courses.html 作者主页
 https://www.csie.ntu.edu.tw/~htlin/mooc/ 作者主页，PPT。
 https://github.com/WangYang-wy/Machine-Learning-Foundations-and-Techniques ，课堂PPT、作业及课堂笔记
 
-- **斯坦福，《CS231n: Convolutional Neural Networks for Visual Recognition Spring 2018》**Previous Years: [Winter 2015] [Winter 2016] [Spring 2017]
+- **斯坦福，** **《CS231n: Convolutional Neural Networks for Visual Recognition Spring 2018》** Previous Years: [Winter 2015] [Winter 2016] [Spring 2017]
 http://cs231n.stanford.edu/ 官网，但是没有视频。
 https://zhuanlan.zhihu.com/p/21930884 官方笔记授权翻译发表
 
@@ -139,25 +141,25 @@ https://github.com/apachecn/MachineLearning/  （ApacheCN出品）
 
 
 ### 模块 - 官网文档
-numpy&scipy
+- numpy&scipy
 https://docs.scipy.org/doc/ 
 http://www.scipy-lectures.org/ 
 
 
-matplotlib
+- matplotlib
 https://matplotlib.org/tutorials/index.html
 https://matplotlib.org/resources/index.html 
 http://www.labri.fr/perso/nrougier/teaching/matplotlib/
 https://github.com/matplotlib/AnatomyOfMatplotlib 
 
-scikit-learn
+- scikit-learn
 http://scikit-learn.org/stable/ 
 http://www.vkdoc.org/projects/scikit-learn/ （ApacheCN出品）
 
-pandas
+- pandas
 http://pandas.pydata.org/pandas-docs/stable/10min.html
 
-keras
+- keras
 http://keras-cn.readthedocs.io/en/latest/  中文
 
 
@@ -191,8 +193,8 @@ http://www.cnblogs.com/ajianbeyourself/p/4377933.html
 ***
 **应该在前7周完成ML，还有kaggle和天池的新手项目，最主要的参考资料**
 >西瓜书，李航统计，PRML。
-吴恩达，台大。
-七月在线，小象学院。
+>吴恩达，台大。
+>七月在线，小象学院。
 
 **期间还应该抽空熟悉DL**
 **会调包就好，tensorflow，pytorch**
