@@ -130,7 +130,7 @@ output2 = pooling[output1, {3, 3}];
 
 Length /@ {#, First@#, First@First@#} & /@ {output1, output2}
 
-![1525588510473](C:\Users\bluove\AppData\Local\Temp\1525588510473.png)
+![](https://github.com/bluove/note/blob/master/img/1525588510473.png)
 
 {{509, 509, 12}, {169, 169, 12}}
 
