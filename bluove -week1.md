@@ -2,7 +2,7 @@ pathlist = "d:\\sync-mathematica\\data\\1.jpg";
 ImageResize[Import[pathlist], {512, 512}]
 img = ImageData@%;
 
-![1525588327442](C:\Users\bluove\AppData\Local\Temp\1525588327442.png)
+![](img\1525588327442.png)
 
 ![1525588377322](C:\Users\bluove\AppData\Local\Temp\1525588377322.png)
 
