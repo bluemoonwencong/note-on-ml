@@ -202,3 +202,6 @@ img（input，dim＝512 * 512 * 3）
 
 ->full（output11，dim＝2）
 
+
+
+![](https://github.com/bluove/note/blob/master/img/1134232534.png)
