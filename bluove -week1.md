@@ -1,5 +1,7 @@
 pathlist = "d:\\sync-mathematica\\data\\1.jpg";
+
 ImageResize[Import[pathlist], {512, 512}]
+
 img = ImageData@%;
 
 ![](https://github.com/bluove/note/blob/master/img/1525588327442.png)
@@ -7,7 +9,9 @@ img = ImageData@%;
 ![](https://github.com/bluove/note/blob/master/img/1525588377322.png)
 
 activate[x_] := Max[0, x]
+
 dactivate = UnitStep;
+
 Plot[{activate[x], dactivate[x]}, {x, -2, 2}]
 
 ![](https://github.com/bluove/note/blob/master/img/1525588433626.png)
