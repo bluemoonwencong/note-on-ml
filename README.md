@@ -63,48 +63,66 @@ ML简介： https://machinelearningmastery.com/a-gentle-introduction-to-scikit-l
 
 ### 课程
 - **吴恩达，《machine learning》**
+
 http://openclassroom.stanford.edu/MainFolder/HomePage.php 斯坦福公开课官网
+
 http://study.163.com/course/introduction/1004570029.htm 网易云空开课转载
+
 https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes 一个参考源，同行者，黄海广博士，有翻译。
 
 
 - **吴恩达，《DeepLearning.ai Specialization》**
+
 http://mooc.study.163.com/smartSpec/detail/1001319001.htm 
+
 https://github.com/bluove/DeepLearning.ai-Summary 一个参考源，同行者
+
 https://github.com/bluove/deeplearning_ai_books 一个参考源，同行者
 
 - **吴恩达，《Machine Learning Yearning》**
+
 https://github.com/yucc2018/machine-learning-yearning 双语
 
 - **吴恩达，Dan Boneh，《CS229: Machine Learning》**
+
 http://cs229.stanford.edu/    官网
+
 https://github.com/Kivy-CN/Stanford-CS-229-CN/    笔记
 
 - **李宏毅，《Machine Learning and having it deep and structured》**
+
 http://speech.ee.ntu.edu.tw/%7Etlkagk/courses.html 作者主页
 
 - **林轩田，《机器学习基石&技法》**
+
 https://www.csie.ntu.edu.tw/~htlin/mooc/ 作者主页，PPT。
+
 https://github.com/WangYang-wy/Machine-Learning-Foundations-and-Techniques ，课堂PPT、作业及课堂笔记
 
 - **斯坦福，** **《CS231n: Convolutional Neural Networks for Visual Recognition Spring 2018》** Previous Years: [Winter 2015] [Winter 2016] [Spring 2017]
+
 http://cs231n.stanford.edu/ 官网，但是没有视频。
+
 https://zhuanlan.zhihu.com/p/21930884 官方笔记授权翻译发表
 
 
 - **七月在线课程**
+
 链接：https://pan.baidu.com/s/1__zjh0IdEaDny83ytLGmkQ 密码：22tq
 
 - **小象学院，机器学习VII**
+
 链接：https://pan.baidu.com/s/1__zjh0IdEaDny83ytLGmkQ 密码：22tq
 
 - **卷积神经网络之卷积计算层，七月在线公开课**
+
 http://www.julyedu.com/video/play/42
 
 
 
 ### 书本，连载博客
 - **《PRML》**
+
 https://github.com/ctgk/PRML 代码实现
 
 
@@ -115,61 +133,88 @@ https://github.com/ctgk/PRML 代码实现
 
 
 - **《花书》**
+
 https://github.com/exacity/deeplearningbook-chinese 中文版
+
 https://github.com/fengdu78/deeplearningbook-chinese 一个参考源，同行者，黄海广博士，有翻译。
+
 https://github.com/fengdu78/face_recognition 参考，人脸识别项目
 
 
 - **《MLAPP》**
+
 https://github.com/Kivy-CN/MLAPP-CN 
 
 - **《Hands-On Machine Learning with Scikit-learn & Tensorflow》**
+
 https://github.com/bluove/hands_on_Ml_with_Sklearn_and_TF 
+
 https://github.com/ageron/handson-ml 
 
 
 - **《Python for Data Analysis》, 2nd Edition**
+
 https://www.jianshu.com/p/04d180d90a3f  （简书，中文翻译）
+
 https://github.com/wesm/pydata-book （code）
 
 - **《Python金融大数据分析》**
 
 - **《机器学习实战》**，从程序员的角度。
+
 http://www.vkdoc.org/projects/mlia/ （ApacheCN出品）
+
 https://github.com/apachecn/MachineLearning/  （ApacheCN出品）
 
 
 
 ### 模块 - 官网文档
 - numpy&scipy
+
 https://docs.scipy.org/doc/ 
+
 http://www.scipy-lectures.org/ 
 
 
 - matplotlib
+
 https://matplotlib.org/tutorials/index.html
+
 https://matplotlib.org/resources/index.html 
+
 http://www.labri.fr/perso/nrougier/teaching/matplotlib/
+
 https://github.com/matplotlib/AnatomyOfMatplotlib 
 
 - scikit-learn
+
 http://scikit-learn.org/stable/ 
+
 http://www.vkdoc.org/projects/scikit-learn/ （ApacheCN出品）
 
 - pandas
+
 http://pandas.pydata.org/pandas-docs/stable/10min.html
 
 - keras
+
 http://keras-cn.readthedocs.io/en/latest/  中文
 
 
 ###  竞赛
+
 https://www.kaggle.com/ kaggle
+
 http://www.chioka.in/kaggle-competition-solutions/ kaggle挑战赛完整源码。
+
 https://tianchi.aliyun.com/ 天池
+
 http://www.pkbigdata.com/ DataCaste
+
 http://sofasofa.io/ 一个数据科学社区
+
 http://wenda.chinahadoop.cn/topic 小象学院问答专区 
+
 https://ask.julyedu.com/ 七月在线问答专区
 
 
@@ -193,7 +238,9 @@ http://www.cnblogs.com/ajianbeyourself/p/4377933.html
 ***
 **应该在前7周完成ML，还有kaggle和天池的新手项目，最主要的参考资料**
 >西瓜书，李航统计，PRML。
+
 >吴恩达，台大。
+
 >七月在线，小象学院。
 
 **期间还应该抽空熟悉DL**
